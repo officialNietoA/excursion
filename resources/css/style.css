@@ -16,3 +16,14 @@ body {
   color: white;
   text-align: center;
 }
+
+.download p {
+  color: aquamarine;
+  font-size: 16px;
+  font-family: Verdana, sans-serif;
+  font-weight: normal;
+}
+
+.download a {
+  color: aquamarine;
+}
