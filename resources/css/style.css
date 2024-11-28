@@ -10,12 +10,18 @@ body {
   color: white;
 }
 
+.container {
+  width: 95%;
+  margin: auto;
+}
+
 .header-content h1 {
   font-family: Verdana, sans-serif;
   font-weight: normal;
   font-size: 50px;
   color: white;
   text-align: center;
+  padding-top: 2rem;
 }
 
 .download p {
@@ -23,6 +29,7 @@ body {
   font-size: 16px;
   font-family: Verdana, sans-serif;
   font-weight: normal;
+  padding: 1rem 0;
 }
 
 .download a {
@@ -33,12 +40,18 @@ body {
   font-family: Verdana, sans-serif;
   font-weight: 300;
   font-size: 42px;
+  padding: 2rem 0;
 }
 
 .text-block p {
   font-family: Verdana, sans-serif;
   font-size: 21px;
   color: gray;
+  padding-bottom: 1rem;
+}
+
+.icon {
+  margin: 1rem 0;
 }
 
 .copyright {
