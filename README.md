@@ -1,6 +1,6 @@
 # Excursion
 
-This repository contains the code for the Excursion web page project, created as part of the Codecademy "Learn Git and GitHub" course. In this project, I used HTML, CSS, Git, and GitHub to replicate the design and functionality of a landing page advertising a mobile app called Excursion.
+This repository contains the code for the Excursion web page project, created as part of the Codecademy **"Learn Git and GitHub"** course. In this project, I used **HTML, CSS, Git, and GitHub** to replicate the design and functionality of a landing page advertising a mobile app called Excursion.
 
 The Excursion app helps users record and share their experiences, and the landing page features eye-catching visuals, including video and landscape imagery, to draw users in. The goal was to create a visually appealing and engaging product page while reinforcing skills with Git for version control and collaboration.
 
