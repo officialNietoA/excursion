@@ -9,6 +9,7 @@ The Excursion app helps users record and share their experiences, and the landin
 - CSS: For styling the page and making it responsive.
 - Git & GitHub: For version control and collaboration on the project.
 - BASH CLI: For interacting with Git locally.
+- Markdown: For creating this meaningful description.
 
 This project serves as a great introduction to using Git and GitHub in real-world web development, as well as working with HTML and CSS to build a professional-looking product page.
 
