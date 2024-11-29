@@ -16,6 +16,6 @@ This project serves as a great introduction to using Git and GitHub in real-worl
 To view the website live: 
 https://officialnietoa.github.io/excursion/
 
-### Sample Screenshots:
+## Sample Screenshots:
 
 ![image](https://github.com/user-attachments/assets/e3b0462e-0acc-4ae2-bcf0-2a9df2d8bc86)
